@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2C45C2F2-43A2-1D66-181F-EFA72570748F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TXUE101",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
+	]
+}
